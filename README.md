@@ -9,6 +9,5 @@ Gennaro Cepparulo – Italy → Remote Solidity Developer
 - Contract: `HelloGennaro.sol`  
 - Deploy transaction:  
   https://sepolia.etherscan.io/tx/0x97cd9157bccaad2e4be4cae2f2ef8802e2688df7a0e20cfb6fa90484869c75be  
-- Contract address (click after deploy): [will appear here]
 
 Learning path: Hardhat 3 + Foundry + bounties → change job in 2026  
